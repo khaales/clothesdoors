@@ -1,0 +1,146 @@
+.navbar {
+    position: relative;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    transform: translateX(-50%);
+    display: block;
+}
+
+#header {
+    color: #cc9966;
+}
+
+.dropdown .dropdown-menu {
+  background-color: #99ccff;
+}
+
+#head {
+  text-align: center;
+  color: #99ccff;
+}
+
+.row .img-thumbnail {
+  height: 100px;
+  width: 100px;
+}
+
+.row {
+  display: block;
+  margin: 25px 50px 25px 50px;
+  border: 1px solid grey;
+  padding: 25px 25px 25px 25px;
+  background-color: white;
+  text-align: center;
+}
+
+.container button {
+  width: 30%;
+}
+
+#login {
+  display: block;
+  margin: 25px 25% 25px 25%;
+  border: 1px solid grey;
+  padding: 25px 25px 25px 25px;
+}
+
+.errlabel {
+  color: red;
+}
+
+
+.center {
+  text-align: center;
+  background-color: white;
+  font-size: 20px;
+}
+
+body {
+  background-image: url("tips/background.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  z-index: auto;
+}
+
+.panel {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+    }
+
+.panel-group {
+  margin-left: 10px;
+  margin-left: 100px!important;
+  margin-right: 100px!important;
+}
+
+.one {
+    color: rgb(55, 32, 10);
+    margin-left: 10px;
+    font-size: 44px;
+    text-align: center;
+}
+
+.para {
+    font-size: 18px;
+    background-color: rgb(244, 239, 222);
+    padding: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 25px;
+    box-sizing: content-box;
+}
+
+.panel-body {
+  font-size: 16px;
+}
+
+#link {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  color: rgb(55, 32, 10);
+  font-size: 16px;
+  padding: 12px 28px;
+  border-radius: 12px;
+  background-color: white;
+  border: 2px solid rgb(55, 32, 10);
+
+}
+
+#backdrop {
+  background-color: white;
+  z-index: 1:
+}
+
+#login {
+  background-color: white;
+}
+.listhold {
+  text-align: center;
+}
+
+.listbox {
+  display: inline-block;
+  width: 40%;
+  vertical-align: top;
+  background-color: white;
+  border: 1px solid grey;
+}
+
+#stupid_file {
+  display: block;
+  margin: 0px 43% 0px 41%;
+  text-align: center;
+}
+
+#welcome {
+  text-align: right;
+}
+
+.checkmark {
+  width:30px;
+  height: 30px;
+}
